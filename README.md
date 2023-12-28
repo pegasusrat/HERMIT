@@ -1,6 +1,6 @@
-# HERMIT
-HERMIT BEST ANDROID &amp; IOS SPYWARE (PRIVATE)
-HTTPS://T.ME/PHOENIXRCU
+# PEGASUS / PHOENIX RCU
+PEGASUS BEST ANDROID RCU
+HTTPS://T.ME/phoenixrcu
 
 
 Android Screen Control Systematic Pattern 
@@ -38,15 +38,17 @@ Controls can be selected with the mouse (see LayoutInspector for details) to see
 - resource-id (control id)
 - scrollable
 - text (control text)
-- content-desc (control description)  
+- content-desc (control description)
 
-![screencapture.png](https://i.imgur.com/7L0RTx2.png)
+  
+## Login System
+![Pegasus](https://i.imgur.com/rRZD6Pm.png)
 
-## How it works
+## Dashboard
 
-![](https://i.imgur.com/4AdhtAf.png)
+![Pegasus Spyware](https://i.imgur.com/VOjitdW.png)
 
 
-# JOIN TELEGRAM https://t.me/PHOENIXRCU
+# JOIN TELEGRAM https://t.me/phoenixrcu
 XenXode@gmail.com
 
